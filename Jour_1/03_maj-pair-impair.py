@@ -30,7 +30,7 @@ def oven_or_odd(list):
 list1 = [2,6,2,8,3,6,9,2]   
 list2 = [2,6,2,8,6,9] 
 list3 = [2,3,6,7,2,9,6,11]
-print(find_the_element_with_bigger_occurence_in_a_list_of_int(list1))
+print(find_the_element_with_bigger_occurence_in_a_list_of_int(list3))
 #print(oven_or_odd(list2))
     
 

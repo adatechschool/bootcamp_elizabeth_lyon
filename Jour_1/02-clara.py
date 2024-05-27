@@ -6,4 +6,4 @@ def is_all_char_unique(string):
                 return "false";
     return "true"
 
-print(is_all_char_unique("je suis clara"))
+print(is_all_char_unique("je sui claro"))
